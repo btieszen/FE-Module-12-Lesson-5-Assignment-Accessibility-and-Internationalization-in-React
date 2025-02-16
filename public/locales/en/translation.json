@@ -1,0 +1,13 @@
+{
+    "form":{
+    "header":"My Blog",
+    "nameLabel":"Name",
+    "blogLabel":"Blog Title",
+    "namePlaceholder":"Enter Your name",
+    "blogPlaceholder":"Enter the Title of Your Blog",
+    "commentsPlaceholder":"Enter your Blog",
+    "commentsLabel":"Your Blog",
+    "submitBtn":"Submit"
+   
+    }
+}
